@@ -1,0 +1,15 @@
+.cc1 {border-style: solid;outline-style: dotted;}
+.ht {color: brown;}
+.tl {margin-left: 35%;
+border-radius: 20px;}
+.az:hover{color: red;}
+li{display: inline;}
+h2{color: rgb(255, 255, 254);
+    background-color: rgb(94, 66, 66)}
+h2:hover{color: black}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body {background-color: rgb(224, 209, 209);
+    font-family: 'Roboto', sans-serif;}
+h1{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+input{ border-radius: 5px; border-width: 3px;}
+#qs{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
